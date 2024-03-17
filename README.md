@@ -1,4 +1,8 @@
-# The code associated with the paper titled 'Enhancing Medical Image Landmark Localization through Textual Knowledge-Driven Image Fusion' presented at ICME024
+# 自动头影测量系统（2024）
 
-## Abstract
-This study tackles the challenge of anatomical landmark localization in medical images, such as X-rays, by combining text and image features. Traditional methods have predominantly focused on visual inputs, often overlooking the valuable semantic context that can be gleaned from textual descriptions accompanying medical images. While recent advancements in visual language modeling have shown potential in classification and segmentation tasks, their application in medical image landmark localization remains limited due to the inherent disparity between text and image features. To address this, we introduce a novel contrastive learning strategy during training, designed to synchronize text embeddings with corresponding image embeddings. Our methodology encompasses a dual-level granularity learning approach: (1) fine-grained contrastive learning for aligning specific textual cues with localized image features, and (2) coarse-grained perceptual learning for correlating textual information with broader areas in the image feature space. This dual approach facilitates the creation of text-driven heatmaps that effectively link textual knowledge with visual features. We evaluated our model using two public medical image datasets, where it demonstrated not only competitive landmark localization performance but also highlighted the substantial benefits of integrating text and image information in medical imaging. This fusion approach opens new possibilities for enhancing diagnostic accuracy in the field.
+
+
+## 新闻
+
+1. 网站将于2023.03.20日正式部署上线，近期正在调整服务器和代码测试。上线后可通过测试账号体验试用。[2024-03-17]
+
