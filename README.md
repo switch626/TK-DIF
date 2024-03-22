@@ -20,6 +20,8 @@
 ![image](https://github.com/switch626/TK-DIF/assets/37759366/15fcd9ff-9e5a-4a46-9631-dc5fc297a1e0)
 2. 搜索患者：①点击搜索，②勾选患者，③选择患者
 ![image](https://github.com/switch626/TK-DIF/assets/37759366/df3aeccb-1353-4428-81dc-9e737866515b)
-3. 打开测量模式/自动测量。
+3. 打开测量模式。
 ![image](https://github.com/switch626/TK-DIF/assets/37759366/85de12b2-6354-4143-9400-69f6b16b1fd0)
-4. 
+4. 自动定点。
+![image](https://github.com/switch626/TK-DIF/assets/37759366/368e407e-d683-4146-9ed6-290d9e4ff308)
+5. 出具诊断报告（正在调试...）
